@@ -19,6 +19,7 @@ public interface SimpleStack {
      * null item is allowed.
      */
     public void push(Item item);
+
     /**
      * Looks at the object at the top of this stack without removing it from the stack.
      */
