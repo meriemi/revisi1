@@ -5,6 +5,7 @@ import java.util.Objects;
 import java.util.Stack;
 
 /**
+ *
  * Created by Mes documents on 05/12/2016.
  */
 public class SimpleStackImlem implements  SimpleStack{
