@@ -51,8 +51,8 @@ public class SimpleStackImlemTest {
     @Test
     public void peek() throws Exception {
         Assert.assertEquals(0,stacki.getSize());
-        Item ito = new Item();
-        stacki.push(ito);
+        Item ito1 = new Item();
+        stacki.push(ito1);
         Assert.assertEquals(1,stacki.getSize());
         Item it;
         it = stacki.peek();
